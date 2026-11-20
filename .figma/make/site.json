@@ -1,0 +1,10 @@
+{
+  "description": "Manage residential gate access seamlessly with real-time monitoring, visitor registration, and secure entry for residents and guests.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
